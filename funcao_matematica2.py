@@ -1,3 +1,4 @@
+"""Nesse arquivo foi trabalhado o conceito de código limpo, por isso os uso de comentários."""
 import os
 os.system("cls")
 
